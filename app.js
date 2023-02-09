@@ -15,3 +15,10 @@ function restar(num1, num2){
     return resultado
 }
 restar (n1,n2);
+
+function sumar(num1, num2){
+    let resultado = num1+num2;
+    console.log (`el resultado de la suma es ${resultado}`)
+    return resultado
+}
+sumar (n1,n2);
